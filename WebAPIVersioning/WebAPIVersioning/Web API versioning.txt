@@ -1,0 +1,5 @@
+﻿1. Web API versioning using URI
+2. Web API Versioning using querystring
+3. Web API Versioning using custom header
+4. Web API Versioning using accept header
+5. Web API Versioning using custom media types
